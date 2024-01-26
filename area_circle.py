@@ -28,9 +28,11 @@ def main():
     # input 
     
     radius = float(input("Enter the Radius in meters: "))
-
+    
+    # processing 
     area = area_circle(radius)
 
+    # output 
     print(f"The area of a circle of {radius:.2f} m is {area:.2f} m{SUPERSCRIPT2}")
 
 # invoke main()
