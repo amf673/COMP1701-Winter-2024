@@ -7,3 +7,6 @@ Materials for COMP 1701 Winter 2024
 4. ipo.py - a simple input, processing and output program.
 5. tips.py - the tips example from class.
 6. caesar.py - implementation of the Caesar cipher from A1.
+7. area_circle.py - example showing a simple function and program structure
+8. assign2.py - starter code for assignment 2
+9. otto1.py - starter code for Otto the Robot in turtle graphics
