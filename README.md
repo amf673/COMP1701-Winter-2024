@@ -11,9 +11,10 @@ Materials for COMP 1701 Winter 2024
 8. ipo.py - a simple input, processing and output program.
 9. otto1.py - starter code for Otto the Robot in turtle graphics
 10. quiz2_soln.py - the solution code for quiz 2
-11. rounding.py - some examples of rounding numbers in Python
-12. tips.py - the tips example from class.
-13. tracing1.py - a tracing example 
-14. using_print.py - examples of printing string and numeric literals, string and numeric variables.
-15. variables.py - examples of creating, printing, finding types, and type casting.
+11. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
+12. rounding.py - some examples of rounding numbers in Python
+13. tips.py - the tips example from class.
+14. tracing1.py - a tracing example 
+15. using_print.py - examples of printing string and numeric literals, string and numeric variables.
+16. variables.py - examples of creating, printing, finding types, and type casting.
 
