@@ -1,0 +1,8 @@
+Name|Quiz 1|Quiz 2|Quiz 3|Quiz 4
+Brienne|10|10|20|16
+Gendry|9|8|12|14
+Arya|7|7|14|15
+Osha|8|6|12|13
+Ygritte|8|8|11|10
+Syrio|0|10|19|15
+Lancel|10|10|19|0
