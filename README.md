@@ -13,13 +13,17 @@ Materials for COMP 1701 Winter 2024
 10. caesar.py - implementation of the Caesar cipher from A1.
 11. dice.py - dice rolling program from class. 
 12. ipo.py - a simple input, processing and output program.
-13. otto1.py - starter code for Otto the Robot in turtle graphics
-14. quiz2_soln.py - the solution code for quiz 2
-15. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
-16. quiz3_q2.py - the code solution for quiz3 question 2, the function to calculate triangular numbers
-17. rounding.py - some examples of rounding numbers in Python
-18. tips.py - the tips example from class.
-19. tracing1.py - a tracing example 
-20. using_print.py - examples of printing string and numeric literals, string and numeric variables.
-21. variables.py - examples of creating, printing, finding types, and type casting.
+13. loop_accumulator1.py - example of accumulator loop.
+14. loop_accumulator2.py - example of accumulator loop.
+15. loop_counted_loop.py - example of a counted loop.
+16. loop_sentinel.py - example of sentinel loop. 
+17. otto1.py - starter code for Otto the Robot in turtle graphics
+18. quiz2_soln.py - the solution code for quiz 2
+19. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
+20. quiz3_q2.py - the code solution for quiz3 question 2, the function to calculate triangular numbers
+21. rounding.py - some examples of rounding numbers in Python
+22. tips.py - the tips example from class.
+23. tracing1.py - a tracing example 
+24. using_print.py - examples of printing string and numeric literals, string and numeric variables.
+25. variables.py - examples of creating, printing, finding types, and type casting.
 
