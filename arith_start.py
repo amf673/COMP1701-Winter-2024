@@ -4,6 +4,7 @@
 # COMP 1701 
 # A. Fedoruk
 # 
+#
 
 def succ(n:int)->int:
     """ Return the sucessor of n."""
