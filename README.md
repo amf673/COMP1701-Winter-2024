@@ -8,22 +8,23 @@ Materials for COMP 1701 Winter 2024
 5. README.md - This file
 6. RPS.py - The Rock, Paper Scissors game from class 
 7. area_circle.py - example showing a simple function and program structure
-8. area_polygon.py - the example from class of calculating the area of a polygon from the apothem and the number of sides 
-9. assign2.py - starter code for assignment 2
-10. caesar.py - implementation of the Caesar cipher from A1.
-11. dice.py - dice rolling program from class. 
-12. ipo.py - a simple input, processing and output program.
-13. loop_accumulator1.py - example of accumulator loop.
-14. loop_accumulator2.py - example of accumulator loop.
-15. loop_counted_loop.py - example of a counted loop.
-16. loop_sentinel.py - example of sentinel loop. 
-17. otto1.py - starter code for Otto the Robot in turtle graphics
-18. quiz2_soln.py - the solution code for quiz 2
-19. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
-20. quiz3_q2.py - the code solution for quiz3 question 2, the function to calculate triangular numbers
-21. rounding.py - some examples of rounding numbers in Python
-22. tips.py - the tips example from class.
-23. tracing1.py - a tracing example 
-24. using_print.py - examples of printing string and numeric literals, string and numeric variables.
-25. variables.py - examples of creating, printing, finding types, and type casting.
+8. area_polygon.py - the example from class of calculating the area of a polygon from the apothem and the number of sides
+9. arith_start.py - implementing arithmetic functions with no +,-,* etc. 
+10. assign2.py - starter code for assignment 2
+11. caesar.py - implementation of the Caesar cipher from A1.
+12. dice.py - dice rolling program from class. 
+13. ipo.py - a simple input, processing and output program.
+14. loop_accumulator1.py - example of accumulator loop.
+15. loop_accumulator2.py - example of accumulator loop.
+16. loop_counted_loop.py - example of a counted loop.
+17. loop_sentinel.py - example of sentinel loop. 
+18. otto1.py - starter code for Otto the Robot in turtle graphics
+19. quiz2_soln.py - the solution code for quiz 2
+20. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
+21. quiz3_q2.py - the code solution for quiz3 question 2, the function to calculate triangular numbers
+22. rounding.py - some examples of rounding numbers in Python
+23. tips.py - the tips example from class.
+24. tracing1.py - a tracing example 
+25. using_print.py - examples of printing string and numeric literals, string and numeric variables.
+26. variables.py - examples of creating, printing, finding types, and type casting.
 
