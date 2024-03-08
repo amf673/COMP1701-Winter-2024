@@ -22,9 +22,10 @@ Materials for COMP 1701 Winter 2024
 19. quiz2_soln.py - the solution code for quiz 2
 20. quiz3_q1.py - the code with some extra debugging for quiz 3 q1 tracing question
 21. quiz3_q2.py - the code solution for quiz3 question 2, the function to calculate triangular numbers
-22. rounding.py - some examples of rounding numbers in Python
-23. tips.py - the tips example from class.
-24. tracing1.py - a tracing example 
-25. using_print.py - examples of printing string and numeric literals, string and numeric variables.
-26. variables.py - examples of creating, printing, finding types, and type casting.
+22. quiz4_soln.py - the solution to the quiz 4 questions. (mystery() and sum of squares) 
+23. rounding.py - some examples of rounding numbers in Python
+24. tips.py - the tips example from class.
+25. tracing1.py - a tracing example 
+26. using_print.py - examples of printing string and numeric literals, string and numeric variables.
+27. variables.py - examples of creating, printing, finding types, and type casting.
 
