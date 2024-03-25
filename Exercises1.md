@@ -267,4 +267,31 @@ we want to return the 10th to 15th letter of the alphabet, or 'jklmno'.
 2. Write a progam that asks the user for a list of words, repeating until a blank word is entered.
 3. From the words entered, create a single string that has all of the words separated by commas. Print out that string.
 
-## 15. More While Loops
+## 15. More While Loops and a List
+
+1. In VS-Code, open a new Python file. Call it `E15.py`. and add the required header comment block.
+2. Convert this for loop to a functionally equivalent while loop: 
+```Python
+a = []
+for q in range(2,10,2):
+   a.append( q ** 3)
+```
+
+## 16. Strings 
+
+1. In VS-Code, open a new Python file. Call it `E16.py`. and add the required header comment block.
+2. Write a main() function that prompts the user to enter a sentence. 
+3. Write a function that converts a sentence to sarcastic text. The first letter should be capitalized and the following letters should alternate lower and upper case.
+
+## 17. Files
+
+1. In VS-Code, open a new Python file. Call it `E17.py`. and add the required header comment block.
+2. Write a program that prompts for a text file name and a ``word``. 
+3. The program will read the text file, line by line and print the lines that contain ``word``. 
+4. Add code to make the searching case insensitive. 
+
+## 18. File and Lists
+
+1. In VS-Code, open a new Python file. Call it `E18.py`. and add the required header comment block.
+2. Write a program that prompts for a text file name, reads the contents of the file and stores each line as list of words. Words are strings of characters separated by whitespace. 
+3. Add code to prompt for a word to find in the file and responds with how many occurences there are of that word. This should be done not case sensitive.   
